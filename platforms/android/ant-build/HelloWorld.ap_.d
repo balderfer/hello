@@ -1,0 +1,25 @@
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/ant-build/HelloWorld.ap_ \
+ : /Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/res/drawable/icon.png \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/res/drawable-hdpi/icon.png \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/res/drawable-ldpi/icon.png \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/res/drawable-mdpi/icon.png \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/res/values/strings.xml \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/res/xml/config.xml \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/ant-build/res/drawable/icon.png \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/assets/_where-is-www.txt \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/assets/www \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/assets/www/cordova.js \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/assets/www/cordova_plugins.js \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/assets/www/css \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/assets/www/img \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/assets/www/index.html \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/assets/www/js \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/assets/www/css/index.css \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/assets/www/img/logo.png \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/assets/www/js/index.js \
+/Users/benjaminalderfer/Google Drive/Programming/PhoneGap/hello/platforms/android/ant-build/AndroidManifest.xml \
