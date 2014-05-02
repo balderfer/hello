@@ -16,4 +16,5 @@
 	    <param name="APP_ID" value="600083260087979" />
 	    <param name="APP_NAME" value="hello" />
 	</gap:plugin>
+	<gap:plugin name="com.phonegap.plugins.barcodescanner" />
 </widget>
