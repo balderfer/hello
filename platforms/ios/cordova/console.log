@@ -41,3 +41,30 @@ Terminating in response to SpringBoard's termination.
 2014-05-01 19:42:43.012 HelloWorld[3695:80b] Unlimited access to network resources
 2014-05-01 19:42:43.162 HelloWorld[3695:80b] Resetting plugins due to page load.
 2014-05-01 19:42:43.704 HelloWorld[3695:80b] Finished load of: file:///Users/benjaminalderfer/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/17E62349-C7F9-470B-AA86-3A78F7B369EC/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-05-01 20:27:31.723 HelloWorld[3918:80b] Multi-tasking -> Device: YES, App: YES
+2014-05-01 20:27:31.732 HelloWorld[3918:80b] Unlimited access to network resources
+2014-05-01 20:27:32.103 HelloWorld[3918:80b] Resetting plugins due to page load.
+2014-05-01 20:27:32.971 HelloWorld[3918:80b] Finished load of: file:///Users/benjaminalderfer/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/17E62349-C7F9-470B-AA86-3A78F7B369EC/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-05-01 20:34:24.328 HelloWorld[4060:80b] Multi-tasking -> Device: YES, App: YES
+2014-05-01 20:34:24.336 HelloWorld[4060:80b] Unlimited access to network resources
+2014-05-01 20:34:24.456 HelloWorld[4060:80b] Resetting plugins due to page load.
+2014-05-01 20:34:24.739 HelloWorld[4060:80b] Finished load of: file:///Users/benjaminalderfer/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/17E62349-C7F9-470B-AA86-3A78F7B369EC/HelloWorld.app/www/index.html
+2014-05-01 20:35:52.975 HelloWorld[4185:80b] Multi-tasking -> Device: YES, App: YES
+2014-05-01 20:35:52.984 HelloWorld[4185:80b] Unlimited access to network resources
+2014-05-01 20:35:53.145 HelloWorld[4185:80b] Resetting plugins due to page load.
+2014-05-01 20:35:53.382 HelloWorld[4185:80b] Finished load of: file:///Users/benjaminalderfer/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/17E62349-C7F9-470B-AA86-3A78F7B369EC/HelloWorld.app/www/index.html
+2014-05-01 20:35:54.901 HelloWorld[4185:80b] Resetting plugins due to page load.
+2014-05-01 20:35:54.921 HelloWorld[4185:80b] Finished load of: file:///Users/benjaminalderfer/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/17E62349-C7F9-470B-AA86-3A78F7B369EC/HelloWorld.app/www/fblogin.html
+Terminating in response to SpringBoard's termination.
+2014-05-02 11:08:19.763 HelloWorld[4685:80b] Multi-tasking -> Device: YES, App: YES
+2014-05-02 11:08:19.771 HelloWorld[4685:80b] Unlimited access to network resources
+2014-05-02 11:08:19.946 HelloWorld[4685:80b] Resetting plugins due to page load.
+2014-05-02 11:08:20.218 HelloWorld[4685:80b] Finished load of: file:///Users/benjaminalderfer/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/17E62349-C7F9-470B-AA86-3A78F7B369EC/HelloWorld.app/www/index.html
+2014-05-02 11:08:21.646 HelloWorld[4685:80b] Resetting plugins due to page load.
+2014-05-02 11:08:21.730 HelloWorld[4685:80b] Finished load of: file:///Users/benjaminalderfer/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/17E62349-C7F9-470B-AA86-3A78F7B369EC/HelloWorld.app/www/fblogin.html
+2014-05-02 11:08:23.718 HelloWorld[4685:80b] Resetting plugins due to page load.
+2014-05-02 11:08:23.937 HelloWorld[4685:80b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-05-02 11:08:23.938 HelloWorld[4685:80b] Resetting plugins due to page load.
+2014-05-02 11:08:24.123 HelloWorld[4685:80b] Finished load of: https://m.facebook.com/dialog/oauth?app_id=600083260087979&client_id=600083260087979&display=touch&domain=&e2e=%7B%7D&locale=en_US&origin=2&redirect_uri=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FdgdTycPTSRj.js%3Fversion%3D40%23cb%3Df2a225b29c%26domain%3D%26origin%3Dfile%253A%252F%252F%252Ff333a10524%26relation%3Dopener%26frame%3Df1345eec28&response_type=token%2Csigned_request&sdk=joey
